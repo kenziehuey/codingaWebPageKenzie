@@ -26,8 +26,8 @@ html {
     text-decoration: underline;
 }
 .container {
-    max-width: 1120px;
-    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box;
     padding: 0 40px;
 }
 .hero-img {
